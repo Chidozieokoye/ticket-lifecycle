@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This setup begins with creating a support ticket, which serves as a record of an issue or request submitted by a user. Once the ticket is generated, its properties, such as priority level, department assignment, and status, are observed to understand its current state. The next step involves modifying ticket properties as needed, including reassigning it to the appropriate agent or team and updating its urgency. The ticket is then actively worked on by the assigned agent, involving communication with the user, troubleshooting, and implementing a solution. Finally, once the issue is resolved, the ticket is marked as completed or closed, ensuring that it is properly documented within the osTicket system. Please watch video demonstration below for more insight.<br />
+For this lab, I began by creating a support ticket, which acts as a record for any issue or request submitted by a user. After generating the ticket, I reviewed its properties, such as the priority level, department assignment, and status, to understand its current state. The next step was to modify the ticket’s properties when necessary, which included reassigning it to the appropriate agent or team and updating its urgency level. Once reassigned, the agent (myself, in this case) began actively working on the ticket, which involved communicating with the user, troubleshooting the problem, and implementing a solution. After resolving the issue, I marked the ticket as completed or closed, ensuring it was accurately documented within the osTicket system. For a more detailed view of the process, check out the video demonstration below.<br />
 
 
 <h2>Video Demonstration</h2>
