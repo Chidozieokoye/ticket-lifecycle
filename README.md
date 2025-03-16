@@ -38,7 +38,7 @@ https://youtu.be/pfCr8TUkVZ0
 <img src="https://i.imgur.com/DNBjgIr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-When you create a ticket as an end user, you submit a support request by selecting a help topic, providing details about the issue, and including any necessary attachments. This ticket is then logged into the system, assigned to the appropriate department or agent, and tracked for resolution
+In this step, I generated a new support ticket within the osTicket system. This could either be initiated by a user submitting a request through the client portal or by me manually creating the ticket on the user's behalf. The ticket contains key details, such as the issue description, priority level, assigned department, and requester information. These elements are crucial for tracking and managing the resolution process efficiently.
 </p>
 <br />
 
@@ -48,7 +48,7 @@ When you create a ticket as an end user, you submit a support request by selecti
 <img src="https://i.imgur.com/hrcl2hJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-When you observe the ticket properties, you review key details such as ticket status, priority, assigned agent, department, and timestamps for creation and updates. This helps track the progress of the request, ensuring it is handled efficiently and within the defined service level 
+In the lab, I observed the ticket properties by thoroughly reviewing and analyzing the ticket’s specific details, such as its status, priority level, description, assigned team members, and any other relevant information. This step allowed me to gain a clear understanding of the ticket’s current situation, ensuring that the next actions I took were informed and aligned with its requirements.
 </p>
 <br />
 
@@ -58,7 +58,7 @@ When you observe the ticket properties, you review key details such as ticket st
 <img src="https://i.imgur.com/TXAzUZ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-When you set the ticket properties, you define or modify key aspects of the ticket, such as its status, priority, assigned agent, or department, to ensure it is routed and managed appropriately. This customization helps to organize the workflow, track progress, and meet response and resolution timelines effectively.
+In this step, I set the ticket properties, and modify key aspects of the ticket, such as its status, priority, assigned agent, and department. This ensures that the ticket is routed and managed correctly. By customizing these properties, I help organize the workflow, track progress, and ensure response and resolution timelines are met efficiently.
 </p>
 <br />
 
@@ -68,6 +68,6 @@ When you set the ticket properties, you define or modify key aspects of the tick
 <img src="https://i.imgur.com/EtaL4qh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-When you work the ticket to completion, you actively engage with the issue by investigating, troubleshooting, and collaborating with the relevant teams or users to find a resolution. Once the problem is resolved, you update the ticket with solutions, mark it as closed, and ensure all necessary documentation is completed.
+Here I worked the ticket to completion, I actively engage with the issue by investigating, troubleshooting, and collaborating with the relevant teams or users to find a resolution. Once I’ve resolved the problem, I update the ticket with the solution, mark it as closed, and make sure all necessary documentation is completed.
 </p>
 <br />
